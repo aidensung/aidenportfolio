@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Ilhyo Aiden Sung',
-  subtitle: "I'm a Software Developer",
-  cta: 'View more',
+  subtitle: "I'm the Software Developer you need",
+  cta: 'Hire me',
 };
 
 // ABOUT DATA
